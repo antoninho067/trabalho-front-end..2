@@ -1,0 +1,148 @@
+
+@media(max-width: 760px){
+
+	.titulo{
+		font-size:50% ; 
+	}
+	a{
+		font-size: 50%;
+	}
+	.volt{
+		width:100%; 
+		font-size:50% 
+
+
+	}
+	.quad1,.quad2,.quad3,.quad4,.quad5,.quad6,.quad7,.quad8{
+
+		width:100% ;
+	}
+}
+
+
+
+
+
+
+	
+	
+
+
+.caxona{
+
+
+}
+
+
+a{
+	text-decoration: none;
+}
+.tit{
+	width:100% ;
+	height:10vh ;
+	display: flex;
+	flex-direction: row;
+	background-color: lightblue;
+}
+.log{
+	width:8% ;
+	height:100% ;
+	background-color:transparent ;
+	background-repeat: no-repeat;
+	background-image:url("../img/logo.jpg") ;
+
+}
+.titulo{
+	width:50% ;
+	height:10vh ;
+	background-color: lightblue;
+	margin-left:17% ;
+	display: flex;
+}
+.trup{
+	margin-left: 20%;
+	font-size: 150%;
+	margin-top:1%; 
+}
+.volt{
+	width: 10%;
+	height:5vh ;
+	background-color:lightgreen ;
+	border-radius:20px ;
+	margin-top:1%;
+	margin-left: 10%;
+	font-size:150% 
+}
+.quad1{
+	width:50% ;
+	height:60vh ;
+	margin-top:1%;
+	background-image:url("../img/quadrinho1.jpg") ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.quad2{
+	width:50% ;
+	height:60vh ;
+	margin-top: 1%;
+	background-image:url("../img/quadrinho2.jpg") ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.quad3{
+	width:50% ;
+	height:60vh ;
+	margin-top: 1%;
+	background-image:url("../img/quadrinho3.jpg") ;
+	background-size: cover;
+}
+.quad4{
+	width:50% ;
+	height:60vh ;
+	margin-top: 1%;
+	background-image:url("../img/quadrinho4.jpg") ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.quad5{
+	width:50% ;
+	height:60vh ;
+	margin-top: 1%;
+	background-image:url("../img/quadrinho5.jpg") ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.quad6{
+	width:50% ;
+	height:60vh ;
+	margin-top: 1%;
+	background-image:url("../img/quadrinho6.jpg") ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.quad7{
+	width:50% ;
+	height:60vh ;
+	margin-top: 1%;
+	background-image:url("../img/quadrinho7.jpg") ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.quad8{
+	width:50% ;
+	height:60vh ;
+	margin-top: 1%;
+	background-image:url("../img/quadrinho8.jpg") ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+

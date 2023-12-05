@@ -1,0 +1,215 @@
+
+
+
+body{
+background-size: #D3D3D3;
+background-size: cover;
+}
+@media (max-width:760px ){
+a{
+margin-right: 100%;
+
+}
+
+.materybox{
+	flex-direction: column;
+	margin:100px 100px 0 100px; 
+	width: 100%;
+}
+.quadradao{
+    flex-direction: column;
+margin-top: 1%;
+}
+.tit{
+font-size: 50%
+}
+.quad{
+width:100%; 
+margin:0 0 0 100px;
+}
+.port{
+width: 100%;
+
+margin:0 0 0 100px;
+}
+.mat{
+width: 100%;
+margin:0 0 0 100px;
+}
+.pdw{
+width: 100%
+margin:0 0 0 100px;
+}
+.front{
+width: 100%;
+margin:0 0 0 100px;
+}
+.inscr{
+	
+}
+}
+
+a{
+	text-decoration: none;
+}
+.tit{
+width:100% ;
+height:10vh ;
+display: flex;
+flex-direction: row;
+background-color: lightblue;
+}
+.quad{
+font-size: 150%;
+}
+.log{
+width:8% ;
+height:100% ;
+background-color:transparent ;
+background-repeat: no-repeat;
+background-image:url("../img/logo.jpg") ;
+}
+.inscr{
+width: 15%;
+height:5vh ;
+background-color:lightgreen ;
+border-radius:20px ;
+margin-top: 1%;
+margin-left:78% ;
+display: flex;
+
+}
+.materybox{
+width: 100%;
+height:70% ;
+margin-top: 1%;
+display: flex;
+
+}
+.port{
+width:23%;
+height:50%	 ;
+margin-left:1.6% ;
+border-radius: 5px;
+font-size: 150%
+}
+.mat{
+width:23% ;
+height:50% ;
+margin-left:1.6% ;
+border-radius: 5px;
+font-size: 150%
+}
+.pdw{
+width:23% ;
+height:50% ;
+margin-left:1.6% ;
+border-radius: 5px;
+font-size: 150%
+}
+.front{
+width:23% ;
+height:50% ;
+margin-left:1.6% ;
+border-radius: 5px;
+font-size: 150%
+}
+
+.quadradao{
+width:100%; 
+height:50vh;
+background-color:transparent ;
+display: flex;
+margin-top:2% ;
+}
+
+.vid2{
+  width:49% ;
+  height: 100%;
+  background-color:transparent;
+ margin-left: 0.5%;
+}
+.vid{
+width:49%;
+height:100%;
+background-color: transparent;
+ 
+}
+.saiba{
+ width:100%;
+ height:10vh;
+background-color: lightblue;
+margin-top:2% ;
+}
+p{
+font-size: 100%;
+
+}
+.sai{
+font-size:200% ;
+font:italic ;
+}
+
+footer{
+width:100% ;
+height:10vh;
+margin-top: 1%;
+background-color: lightblue;
+font-size:150%;
+display: flex;
+}
+.fot{
+margin-top:2% ;
+margin-left: 30%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
